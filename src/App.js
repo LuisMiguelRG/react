@@ -17,7 +17,9 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+        <h1>Mi primera aplicacion</h1>
+        <p>Esta es mi primera aplicación en React, está padrísimo!</p>
+      </header>      
     </div>
   );
 }
